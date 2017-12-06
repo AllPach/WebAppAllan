@@ -1,0 +1,6 @@
+projectKey=webAppAllan:WebAppAllan
+serverUrl=http://localhost:9000
+serverVersion=6.7.0.33306
+dashboardUrl=http://localhost:9000/dashboard/index/webAppAllan:WebAppAllan
+ceTaskId=AWAsezoR8wn-E0WMLDv8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWAsezoR8wn-E0WMLDv8
